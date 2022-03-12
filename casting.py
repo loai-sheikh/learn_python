@@ -1,0 +1,1 @@
+print('abs'+str(34))

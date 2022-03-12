@@ -1,0 +1,7 @@
+telegram app:
+1) search: /botfather
+2) conversation: start
+3) newbot
+4) <bot name>
+5) API: 5094406635:AAH5uGP_tzcWgV-eKHWheWH7xvlfkw6AQ8M
+
